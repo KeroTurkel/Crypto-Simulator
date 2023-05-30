@@ -12,5 +12,7 @@ Meine App integriert die CoinMarketCap API, um aktuelle Kryptodaten in Echtzeit 
 Trotz des bereits erreichten Fortschritts, habe ich noch einige geplante Verbesserungen:
 
 -Einführung einer Prozentsatzanzeige, um die Wertsteigerung oder -minderung eines Coins zu verfolgen.
+
 -Implementierung eines Filters in der Kryptocoin-Auswahlliste, um die Nutzererfahrung weiter zu verbessern.
+
 -Bereitstellung von Startkapital: Ich plane, jedem neuen Benutzer ein virtuelles Startguthaben von 25'000 zu gewähren, um den Kauf und      Verkauf von Coins zu simulieren.
