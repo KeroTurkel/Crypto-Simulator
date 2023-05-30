@@ -1,6 +1,8 @@
 # Crypto-Simulator
 Crypto-Simulator-App
 
+Produkt-Video: https://youtu.be/-MrCYxARQrU
+
 Ich habe eine Crypto-Simulator App von Grund auf selbst entwickelt. Ich nutzte dabei moderne Technologien wie React Native, Firebase Authentication und die Firebase Realtime Database.
 
 Nach der erfolgreichen Registrierung ermöglicht meine App den Benutzern, sich in ihr individuelles Konto einzuloggen. Jedes Konto speichert alle durchgeführten Änderungen und erlaubt den Handel mit virtuellen Kryptowährungen.
